@@ -1,0 +1,6 @@
+node_modules/ 
+.pnpm-store/ 
+current/ 
+versions/ 
+.ghost-cli 
+*.log 
